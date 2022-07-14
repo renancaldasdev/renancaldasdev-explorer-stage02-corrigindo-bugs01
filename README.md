@@ -9,16 +9,16 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 <img src=".github/projeto_com-bug.png">
 <br><br>
 <h2 >🚀 Tecnologias Utilizadas</h2>
-<hr>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-<br><br>
+<br>
 <h2>🚧 Projeto</h2>
-<hr>
+
 Live preview: <a href="https://renancaldasdev.github.io/renancaldasdev-explorer-stage02-corrigindo-bugs01/">Corrigindo Bugs 01</a>
 <br><br>
+
 <h3>Projeto Corrigido</h3>
 <img src=".github/projeto01-correcao-de-bugs.png">
 
